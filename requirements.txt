@@ -2,6 +2,7 @@ ipywidgets
 jinja2 >= 3.0.0, < 3.1.0
 jupyterlab
 jupytext
+nbgitpuller
 nbconvert
 nbtutor
 RISE
