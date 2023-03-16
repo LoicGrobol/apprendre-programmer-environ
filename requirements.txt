@@ -1,7 +1,7 @@
 ipywidgets
 jinja2 >= 3.0.0, < 3.1.0
 jupyterlab
-jupytext
+jupytext <= 1.14.4
 nbgitpuller
 nbconvert
 nbtutor
