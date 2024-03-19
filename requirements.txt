@@ -1,7 +1,7 @@
 ipywidgets
 jedi-language-server
 jinja2 >= 3.0.0, < 3.2.0
-jupyterlab
+jupyterlab >= 4, < 5
 jupyterlab-rise
 jupytext
 nbclassic
