@@ -1,10 +1,11 @@
 ipywidgets
-jinja2 >= 3.0.0, < 3.1.0
+jedi-language-server
+jinja2 >= 3.0.0, < 3.2.0
 jupyterlab
-jupytext <= 1.14.4
-nbgitpuller
+jupyterlab-rise
+jupytext
 nbconvert
 nbtutor
+pyright
 RISE
-# https://github.com/mwouts/jupytext/issues/1051
-nbclassic>=0.5.5
+ruff
