@@ -12,7 +12,7 @@ RISE
 ruff
 
 # https://github.com/mwouts/jupytext/issues/1051
-nbclassic >= 0.5.5
+nbclassic >= 1 < 2
 
 # DO NOT DELETE THIS
 nbgitpuller
