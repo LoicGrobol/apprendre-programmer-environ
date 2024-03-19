@@ -13,3 +13,7 @@ ruff
 
 # https://github.com/mwouts/jupytext/issues/1051
 nbclassic >= 1, < 2
+
+# DON'T DELETE THIS
+# number of times it's been deleted anyway: 3
+nbgitpuller
