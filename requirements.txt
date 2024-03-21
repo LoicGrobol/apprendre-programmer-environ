@@ -5,7 +5,7 @@ jupyter-server >= 2, < 3
 jupyterlab >= 4, < 5
 jupyterlab-rise
 jupytext >= 1.16, < 1.17
-notebook >= 7, < 8
+notebook >= 6, < 7
 nbconvert >= 7.16, < 7.17
 pyright
 RISE
