@@ -1,11 +1,10 @@
 ipywidgets
+jupyter_server!=2.11.0
 jupyterlab
-jupyterlab-rise
+jupyterlab_rise
 jupytext
 notebook
 nbconvert
-pyright
-RISE
 ruff
 
 # DON'T DELETE THIS
